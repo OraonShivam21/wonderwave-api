@@ -38,7 +38,7 @@
   ],
   "packages": [
     {
-      "package-id": "1962229637",
+      "packageID": "1",
       "title": "Roopkund Lake - The Mysterious lake of Skeleton",
       "description": "Roopkund Lake, better known as “Skeleton Lake,” is one of those dreadful secluded places, located in the most inhospitable regions of the Himalayan Mountains",
       "destination": "Himalayan Mountains",
@@ -56,7 +56,7 @@
       "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2015/01/Roopkund-Trek-1170x618.jpg"
     },
     {
-      "package-id": "2032003295",
+      "packageID": "2",
       "title": "Khajjiar – The Mini Switzerland of India",
       "description": "Khajjiar, often called as India’s Switzerland, is a hill station in Chamba District of Himachal Pradesh",
       "destination": "Khajjar, Himachal Pradesh",
@@ -74,7 +74,7 @@
       "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2012/04/Khajjiar-1170x618.jpg"
     },
     {
-      "package-id": "1390420000",
+      "packageID": "3",
       "title": "Experience the frosty Drass",
       "description": "Experience the winters in Drass, Markha Valley. Drass, a charming valley bustling on riverbanks, starts from the base of the Zoji La pass",
       "destination": "Kargil District of Jammu and Kashmir",
@@ -92,7 +92,7 @@
       "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2012/04/Drass-1170x618.jpg"
     },
     {
-      "package-id": "3725663238",
+      "packageID": "4",
       "title": "Magnetic hill – The magical mountains of Ladakh",
       "description": "Explore the Magnetic Hill located near Leh in beautiful Ladakh, at a height of 11,000 feet above sea level, known to possess strong magnetic properties which have the strength to pull cars up-hill",
       "destination": "3",
@@ -110,7 +110,7 @@
       "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2012/10/Ladakh-1170x618.jpg"
     },
     {
-      "package-id": "7772305834",
+      "packageID": "5",
       "title": "Malana – The Little Greece of India",
       "description": "Malana is a tiny unique village with about 100 houses and is situated to the north-east of Kullu Valley in Himachal Pradesh",
       "destination": "Kullu, Himachal Pradesh",
@@ -128,7 +128,7 @@
       "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2012/04/Malana-1170x618.jpg"
     },
     {
-      "package-id": "8434411261",
+      "packageID": "6",
       "title": "Paradise of Trekkers –  Sandakphu",
       "description": "Located at an altitude of 3,636 metres, Sandakphu is the highest peak located in Darjeeling district in the eastern part of India",
       "destination": "Darjeeling, Sikkim",
@@ -146,7 +146,7 @@
       "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2015/01/Sandakphu-1170x618.jpg"
     },
     {
-      "package-id": "9232438577",
+      "packageID": "7",
       "title": "The Spell-bound Spiti Valley",
       "description": "Spiti Valley is located in Himachal Pradesh and is a paradise in itself!",
       "destination": "Spiti, Himachal Pradesh",
@@ -164,7 +164,7 @@
       "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2013/10/Spiti-valley-key-monastry-1170x618.jpg"
     },
     {
-      "package-id": "8452098421",
+      "packageID": "8",
       "title": "Believe it or not - Gravity Defying Palace",
       "description": "A man made wonder and a complete offbeat destination, the Gravity Defying Palace at Lucknow, capital of the eastern region of Uttar Pradesh, is known for its mystifying palace complex",
       "destination": "Lucknow, Uttar Pradesh",
@@ -182,7 +182,7 @@
       "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2012/04/Gravity-defying-palace-1170x618.jpg"
     },
     {
-      "package-id": "2794845659",
+      "packageID": "9",
       "title": "Serenity personified – The Phugtal Monastery",
       "description": "The Phuktal Monastery is a massive cave Monastery held high-up in the steep mountains. It is this demeanour that makes this Monastery unique amongst all others in the Zanskar Valley",
       "destination": "Srinagar, Jammu and Kashmir",
@@ -200,7 +200,7 @@
       "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2012/04/Phugtal-1170x618.jpg"
     },
     {
-      "package-id": "0023044608",
+      "packageID": "10",
       "title": "Artistically adorable – Andretta",
       "description": "Kangra Valley, in the amazing milieu of the mighty Dhauladhar, the Milky Mountains, has been always known to attract artists",
       "destination": "Dharamsala, Himachal Pradeh",
@@ -218,7 +218,7 @@
       "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2012/04/Kangra-1170x618.jpg"
     },
     {
-      "package-id": "6974466692",
+      "packageID": "11",
       "title": "Freak out on the Frozen River Trek",
       "description": "Walking on the frozen river of Zanskar is an amazing experience for an adventure lover.",
       "destination": "Srinagar, Jammu and Kashmir",
@@ -236,7 +236,7 @@
       "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2015/01/Chadar-trek-1170x618.jpg"
     },
     {
-      "package-id": "9869219020",
+      "packageID": "12",
       "title": "Indulge in the glorious Gurez Valley",
       "description": "The Gurez valley is a beautiful grandeur in the mighty Kishenganga River of Himalayan regions near Srinagar in northern Jammu and Kashmir, India",
       "destination": "Srinagar, Jammu and Kashmir",
@@ -254,7 +254,7 @@
       "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2012/04/Gurez-Valley-1170x618.jpg"
     },
     {
-      "package-id": "3025368330",
+      "packageID": "13",
       "title": "Khajuraho – The Temple of love",
       "description": "The amalgamation of science, art of architecture and eroticism, Khajuraho is situated in India’s Tiger State- Madhya Pradesh",
       "destination": "Khajuraho, Madhya Pradesh",
@@ -272,7 +272,7 @@
       "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2015/02/Khajuraho--1170x618.jpg"
     },
     {
-      "package-id": "5965310641",
+      "packageID": "14",
       "title": "Valley of Flowers,Uttaranchal",
       "description": "The great Himalayan range is the house of most exotic fauna and flora and is a popular meadow for endemic alpine flowers and dazzling natural beauty",
       "destination": "Garhwal, Uttaranchal",
@@ -290,7 +290,7 @@
       "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2015/01/Valley-of-flowersx-1170x618.jpg"
     },
     {
-      "package-id": "8094820977",
+      "packageID": "15",
       "title": "The historical platter – Orchha",
       "description": "Orchha is a town in Tikamgarh district of Madhya Pradesh, was in the year 1501 by Maharaja Rudra Pratap Singh",
       "destination": "Tikamgarh, Madhya Pradesh",
@@ -308,7 +308,7 @@
       "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2012/04/Orchha-1170x618.jpg"
     },
     {
-      "package-id": "4397048223",
+      "packageID": "16",
       "title": "Door-less Houses of Shani Shignapur",
       "description": "Shani Shignapur is a village located about 35 km from Ahmednagar of Maharashtra, known for its popular temple of Shani, the epitome of Hindu god of the planet Saturn",
       "destination": "Ahmednagar, Maharashtra",
@@ -326,7 +326,7 @@
       "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2012/04/Shani_Shingnapur_Shani_dev_temple-wiki-1170x618.jpg"
     },
     {
-      "package-id": "9902531334",
+      "packageID": "17",
       "title": "Karni Mata Temple – Jai Mata Di",
       "description": "Karni Mata temple is one of the popular and unusual holy shrines of India. This Temple is situated in the small town of Deshnok, in south of Bikaner, Rajasthan",
       "destination": "Bikaner, Rajasthan",
@@ -344,7 +344,7 @@
       "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2012/04/karnimata-wiki-1170x618.jpg"
     },
     {
-      "package-id": "9367827679",
+      "packageID": "18",
       "title": "The Levitating Stone at Shivapur – Dave Ja Vu’!!",
       "description": "Shivapur is a small place in Pune in Maharashtra which is famous for its levitating stone. According to popular belief, Qamar Ali is a famous Sufi Saint and is renowned for its magical powers",
       "destination": "Pune, Maharashtra",
