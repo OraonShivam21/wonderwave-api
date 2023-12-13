@@ -1,0 +1,427 @@
+{
+  "users": [
+    {
+      "userID": "1",
+      "username": "subhashkumar123",
+      "password": "subhashkumar123",
+      "email": "subhashkumar123@gmail.com",
+      "role": "user"
+    },
+    {
+      "userID": "2",
+      "username": "rohityadav123",
+      "password": "rohityadav123",
+      "email": "rohityadav123@gmail.com",
+      "role": "user"
+    },
+    {
+      "userID": "3",
+      "username": "mohdasif123",
+      "password": "mohdasif123",
+      "email": "mohdasif123@gmail.com",
+      "role": "user"
+    },
+    {
+      "userID": "4",
+      "username": "mohdkhalid123",
+      "password": "mohdkhalid123",
+      "email": "mohdkhalid123@gmail.com",
+      "role": "admin"
+    },
+    {
+      "userID": "5",
+      "username": "shivamoraon123",
+      "password": "shivamoraon123",
+      "email": "shivamoraon123@gmail.com",
+      "role": "admin"
+    }
+  ],
+  "packages": [
+    {
+      "package-id": "1962229637",
+      "title": "Roopkund Lake - The Mysterious lake of Skeleton",
+      "description": "Roopkund Lake, better known as “Skeleton Lake,” is one of those dreadful secluded places, located in the most inhospitable regions of the Himalayan Mountains",
+      "destination": "Himalayan Mountains",
+      "duration": 4,
+      "price": 4156,
+      "currency": "INR",
+      "accommodation": "4-star hotels with basic amenities",
+      "transportation": "Private air-conditioned vehicles",
+      "meals": "Daily breakfast, lunch, and dinner",
+      "activities": [
+        "Guided city tours",
+        "Snorkeling excursion",
+        "Cultural shows"
+      ],
+      "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2015/01/Roopkund-Trek-1170x618.jpg"
+    },
+    {
+      "package-id": "2032003295",
+      "title": "Khajjiar – The Mini Switzerland of India",
+      "description": "Khajjiar, often called as India’s Switzerland, is a hill station in Chamba District of Himachal Pradesh",
+      "destination": "Khajjar, Himachal Pradesh",
+      "duration": "5",
+      "price": "5212",
+      "currency": "INR",
+      "accomodation": "4-star hotels with modern amenities",
+      "transportation": "Private air-conditioned vehicles",
+      "meals": "Daily breakfast, lunch, and dinner",
+      "activities": [
+        "Guided city tours",
+        "Snorkeling excursion",
+        "Cultural shows"
+      ],
+      "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2012/04/Khajjiar-1170x618.jpg"
+    },
+    {
+      "package-id": "1390420000",
+      "title": "Experience the frosty Drass",
+      "description": "Experience the winters in Drass, Markha Valley. Drass, a charming valley bustling on riverbanks, starts from the base of the Zoji La pass",
+      "destination": "Kargil District of Jammu and Kashmir",
+      "duration": "4",
+      "price": "3799",
+      "currency": "INR",
+      "accomodation": "4-star hotels with modern amenities",
+      "transportation": "Private air-conditioned vehicles",
+      "meals": "Daily breakfast, lunch, and dinner",
+      "activities": [
+        "Guided city tours",
+        "Snorkeling excursion",
+        "Cultural shows"
+      ],
+      "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2012/04/Drass-1170x618.jpg"
+    },
+    {
+      "package-id": "3725663238",
+      "title": "Magnetic hill – The magical mountains of Ladakh",
+      "description": "Explore the Magnetic Hill located near Leh in beautiful Ladakh, at a height of 11,000 feet above sea level, known to possess strong magnetic properties which have the strength to pull cars up-hill",
+      "destination": "3",
+      "duration": "Leh, Ladakh",
+      "price": "3799",
+      "currency": "INR",
+      "accomodation": "4-star hotels with modern amenities",
+      "transportation": "Private air-conditioned vehicles",
+      "meals": "Daily breakfast, lunch, and dinner",
+      "activities": [
+        "Guided city tours",
+        "Snorkeling excursion",
+        "Cultural shows"
+      ],
+      "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2012/10/Ladakh-1170x618.jpg"
+    },
+    {
+      "package-id": "7772305834",
+      "title": "Malana – The Little Greece of India",
+      "description": "Malana is a tiny unique village with about 100 houses and is situated to the north-east of Kullu Valley in Himachal Pradesh",
+      "destination": "Kullu, Himachal Pradesh",
+      "duration": "4",
+      "price": "10450",
+      "currency": "INR",
+      "accomodation": "4-star hotels with modern amenities",
+      "transportation": "Private air-conditioned vehicles",
+      "meals": "Daily breakfast, lunch, and dinner",
+      "activities": [
+        "Guided city tours",
+        "Snorkeling excursion",
+        "Cultural shows"
+      ],
+      "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2012/04/Malana-1170x618.jpg"
+    },
+    {
+      "package-id": "8434411261",
+      "title": "Paradise of Trekkers –  Sandakphu",
+      "description": "Located at an altitude of 3,636 metres, Sandakphu is the highest peak located in Darjeeling district in the eastern part of India",
+      "destination": "Darjeeling, Sikkim",
+      "duration": "5",
+      "price": "4759",
+      "currency": "INR",
+      "accomodation": "4-star hotels with modern amenities",
+      "transportation": "Private air-conditioned vehicles",
+      "meals": "Daily breakfast, lunch, and dinner",
+      "activities": [
+        "Guided city tours",
+        "Snorkeling excursion",
+        "Cultural shows"
+      ],
+      "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2015/01/Sandakphu-1170x618.jpg"
+    },
+    {
+      "package-id": "9232438577",
+      "title": "The Spell-bound Spiti Valley",
+      "description": "Spiti Valley is located in Himachal Pradesh and is a paradise in itself!",
+      "destination": "Spiti, Himachal Pradesh",
+      "duration": "3",
+      "price": "10450",
+      "currency": "INR",
+      "accomodation": "4-star hotels with modern amenities",
+      "transportation": "Private air-conditioned vehicles",
+      "meals": "Daily breakfast, lunch, and dinner",
+      "activities": [
+        "Guided city tours",
+        "Snorkeling excursion",
+        "Cultural shows"
+      ],
+      "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2013/10/Spiti-valley-key-monastry-1170x618.jpg"
+    },
+    {
+      "package-id": "8452098421",
+      "title": "Believe it or not - Gravity Defying Palace",
+      "description": "A man made wonder and a complete offbeat destination, the Gravity Defying Palace at Lucknow, capital of the eastern region of Uttar Pradesh, is known for its mystifying palace complex",
+      "destination": "Lucknow, Uttar Pradesh",
+      "duration": "3",
+      "price": "3352",
+      "currency": "INR",
+      "accomodation": "4-star hotels with modern amenities",
+      "transportation": "Private air-conditioned vehicles",
+      "meals": "Daily breakfast, lunch, and dinner",
+      "activities": [
+        "Guided city tours",
+        "Snorkeling excursion",
+        "Cultural shows"
+      ],
+      "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2012/04/Gravity-defying-palace-1170x618.jpg"
+    },
+    {
+      "package-id": "2794845659",
+      "title": "Serenity personified – The Phugtal Monastery",
+      "description": "The Phuktal Monastery is a massive cave Monastery held high-up in the steep mountains. It is this demeanour that makes this Monastery unique amongst all others in the Zanskar Valley",
+      "destination": "Srinagar, Jammu and Kashmir",
+      "duration": "2",
+      "price": "3799",
+      "currency": "INR",
+      "accomodation": "4-star hotels with modern amenities",
+      "transportation": "Private air-conditioned vehicles",
+      "meals": "Daily breakfast, lunch, and dinner",
+      "activities": [
+        "Guided city tours",
+        "Snorkeling excursion",
+        "Cultural shows"
+      ],
+      "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2012/04/Phugtal-1170x618.jpg"
+    },
+    {
+      "package-id": "0023044608",
+      "title": "Artistically adorable – Andretta",
+      "description": "Kangra Valley, in the amazing milieu of the mighty Dhauladhar, the Milky Mountains, has been always known to attract artists",
+      "destination": "Dharamsala, Himachal Pradeh",
+      "duration": "3",
+      "price": "5212",
+      "currency": "INR",
+      "accomodation": "4-star hotels with modern amenities",
+      "transportation": "Private air-conditioned vehicles",
+      "meals": "Daily breakfast, lunch, and dinner",
+      "activities": [
+        "Guided city tours",
+        "Snorkeling excursion",
+        "Cultural shows"
+      ],
+      "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2012/04/Kangra-1170x618.jpg"
+    },
+    {
+      "package-id": "6974466692",
+      "title": "Freak out on the Frozen River Trek",
+      "description": "Walking on the frozen river of Zanskar is an amazing experience for an adventure lover.",
+      "destination": "Srinagar, Jammu and Kashmir",
+      "duration": "3",
+      "price": "3799",
+      "currency": "INR",
+      "accomodation": "4-star hotels with modern amenities",
+      "transportation": "Private air-conditioned vehicles",
+      "meals": "Daily breakfast, lunch, and dinner",
+      "activities": [
+        "Guided city tours",
+        "Snorkeling excursion",
+        "Cultural shows"
+      ],
+      "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2015/01/Chadar-trek-1170x618.jpg"
+    },
+    {
+      "package-id": "9869219020",
+      "title": "Indulge in the glorious Gurez Valley",
+      "description": "The Gurez valley is a beautiful grandeur in the mighty Kishenganga River of Himalayan regions near Srinagar in northern Jammu and Kashmir, India",
+      "destination": "Srinagar, Jammu and Kashmir",
+      "duration": "4",
+      "price": "5799",
+      "currency": "INR",
+      "accomodation": "4-star hotels with modern amenities",
+      "transportation": "Private air-conditioned vehicles",
+      "meals": "Daily breakfast, lunch, and dinner",
+      "activities": [
+        "Guided city tours",
+        "Snorkeling excursion",
+        "Cultural shows"
+      ],
+      "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2012/04/Gurez-Valley-1170x618.jpg"
+    },
+    {
+      "package-id": "3025368330",
+      "title": "Khajuraho – The Temple of love",
+      "description": "The amalgamation of science, art of architecture and eroticism, Khajuraho is situated in India’s Tiger State- Madhya Pradesh",
+      "destination": "Khajuraho, Madhya Pradesh",
+      "duration": "3",
+      "price": "7899",
+      "currency": "INR",
+      "accomodation": "4-star hotels with modern amenities",
+      "transportation": "Private air-conditioned vehicles",
+      "meals": "Daily breakfast, lunch, and dinner",
+      "activities": [
+        "Guided city tours",
+        "Snorkeling excursion",
+        "Cultural shows"
+      ],
+      "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2015/02/Khajuraho--1170x618.jpg"
+    },
+    {
+      "package-id": "5965310641",
+      "title": "Valley of Flowers,Uttaranchal",
+      "description": "The great Himalayan range is the house of most exotic fauna and flora and is a popular meadow for endemic alpine flowers and dazzling natural beauty",
+      "destination": "Garhwal, Uttaranchal",
+      "duration": "4",
+      "price": "5629",
+      "currency": "INR",
+      "accomodation": "4-star hotels with modern amenities",
+      "transportation": "Private air-conditioned vehicles",
+      "meals": "Daily breakfast, lunch, and dinner",
+      "activities": [
+        "Guided city tours",
+        "Snorkeling excursion",
+        "Cultural shows"
+      ],
+      "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2015/01/Valley-of-flowersx-1170x618.jpg"
+    },
+    {
+      "package-id": "8094820977",
+      "title": "The historical platter – Orchha",
+      "description": "Orchha is a town in Tikamgarh district of Madhya Pradesh, was in the year 1501 by Maharaja Rudra Pratap Singh",
+      "destination": "Tikamgarh, Madhya Pradesh",
+      "duration": "3",
+      "price": "5279",
+      "currency": "INR",
+      "accomodation": "4-star hotels with modern amenities",
+      "transportation": "Private air-conditioned vehicles",
+      "meals": "Daily breakfast, lunch, and dinner",
+      "activities": [
+        "Guided city tours",
+        "Snorkeling excursion",
+        "Cultural shows"
+      ],
+      "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2012/04/Orchha-1170x618.jpg"
+    },
+    {
+      "package-id": "4397048223",
+      "title": "Door-less Houses of Shani Shignapur",
+      "description": "Shani Shignapur is a village located about 35 km from Ahmednagar of Maharashtra, known for its popular temple of Shani, the epitome of Hindu god of the planet Saturn",
+      "destination": "Ahmednagar, Maharashtra",
+      "duration": "5",
+      "price": "10599",
+      "currency": "INR",
+      "accomodation": "4-star hotels with modern amenities",
+      "transportation": "Private air-conditioned vehicles",
+      "meals": "Daily breakfast, lunch, and dinner",
+      "activities": [
+        "Guided city tours",
+        "Snorkeling excursion",
+        "Cultural shows"
+      ],
+      "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2012/04/Shani_Shingnapur_Shani_dev_temple-wiki-1170x618.jpg"
+    },
+    {
+      "package-id": "9902531334",
+      "title": "Karni Mata Temple – Jai Mata Di",
+      "description": "Karni Mata temple is one of the popular and unusual holy shrines of India. This Temple is situated in the small town of Deshnok, in south of Bikaner, Rajasthan",
+      "destination": "Bikaner, Rajasthan",
+      "duration": "4",
+      "price": "7899",
+      "currency": "INR",
+      "accomodation": "4-star hotels with modern amenities",
+      "transportation": "Private air-conditioned vehicles",
+      "meals": "Daily breakfast, lunch, and dinner",
+      "activities": [
+        "Guided city tours",
+        "Snorkeling excursion",
+        "Cultural shows"
+      ],
+      "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2012/04/karnimata-wiki-1170x618.jpg"
+    },
+    {
+      "package-id": "9367827679",
+      "title": "The Levitating Stone at Shivapur – Dave Ja Vu’!!",
+      "description": "Shivapur is a small place in Pune in Maharashtra which is famous for its levitating stone. According to popular belief, Qamar Ali is a famous Sufi Saint and is renowned for its magical powers",
+      "destination": "Pune, Maharashtra",
+      "duration": "4",
+      "price": "6899",
+      "currency": "INR",
+      "accomodation": "4-star hotels with modern amenities",
+      "transportation": "Private air-conditioned vehicles",
+      "meals": "Daily breakfast, lunch, and dinner",
+      "activities": [
+        "Guided city tours",
+        "Snorkeling excursion",
+        "Cultural shows"
+      ],
+      "image": "https://www.thrillophilia.com/blog/wp-content/uploads/2012/04/religionworld.in-levitating-stone-1170x618.jpg"
+    }
+  ],
+  "services": [
+    {
+      "serviceId": "1",
+      "serviceName": "Best Flight Booking",
+      "description": "Book the best flight with best deals through us",
+      "category": "Flight",
+      "price": "1200",
+      "currency": "INR",
+      "bookingMethod": "Online booking",
+      "image": "https://www.bacancytechnology.com/img/solution/flight-booking-2.jpg"
+    },
+    {
+      "serviceId": "2",
+      "serviceName": "Book best hotels",
+      "description": "Book the best hotels with hottest deals available",
+      "category": "Hotel",
+      "price": "1400",
+      "currency": "INR",
+      "bookingMethod": "Online booking",
+      "image": "https://clark.com/wp-content/uploads/2018/07/hotelbooking.jpg?w=1200&h=627&crop=1"
+    },
+    {
+      "serviceId": "3",
+      "serviceName": "Ensure your meals with us",
+      "description": "Taste the variety of traditional dishes while exploring",
+      "category": "Meals",
+      "price": "1100",
+      "currency": "INR",
+      "bookingMethod": "Online booking",
+      "image": "https://img.grouponcdn.com/iam/mRKajAotjMCnMWpKvAH3sE7cUXS/mR-2048x1229/v1/c870x524.jpg"
+    },
+    {
+      "serviceId": "4",
+      "serviceName": "Rent fully air-conditioned vehicle",
+      "description": "Book the best air-conditioned vehicles to get the best of your journey",
+      "category": "Road Vehicle",
+      "price": "1500",
+      "currency": "INR",
+      "bookingMethod": "Online booking",
+      "image": "https://www.travipro.com/assets/images/flight/carimg3.jpg"
+    },
+    {
+      "serviceId": "5",
+      "serviceName": "Guided City Tour",
+      "description": "Book from the best guides we provide you",
+      "category": "Tour",
+      "price": "2500",
+      "currency": "INR",
+      "bookingMethod": "Online booking",
+      "image": "https://www.worldhotelmarketing.com/blog/wp-content/uploads/2016/02/Online-Booking-696x462.jpg"
+    },
+    {
+      "serviceId": "6",
+      "serviceName": "24-hour Help Desk Service",
+      "description": "Get 24-Hour Help Desk Service to get a smooth journey experience",
+      "category": "Help Desk Service",
+      "price": "1200",
+      "currency": "INR",
+      "bookingMethod": "Online booking",
+      "image": "https://nauticon.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-14-at-3.26.58-PM.png"
+    }
+  ]
+}
