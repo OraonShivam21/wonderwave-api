@@ -2,7 +2,7 @@
   "name": "wonderwave-api",
   "version": "1.0.0",
   "description": "WonderWave API that stores the user data, admin data, packages data as well as services provided by provided by WonderWave Travel Service",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "nodemon server.js"
