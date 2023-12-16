@@ -1,0 +1,17 @@
+### make a get request
+GET http://localhost:3000/packages
+
+### get request to users
+GET http://localhost:3000/users
+
+### make a patch request
+PATCH http://localhost:3000/users/5
+Content-Type: application/json
+
+{
+    "userID": "5",
+    "username": "oraonshivam123",
+    "password": "oraonshivam123",
+    "email": "shivamoraon123@gmail.com",
+    "role": "admin"
+}
